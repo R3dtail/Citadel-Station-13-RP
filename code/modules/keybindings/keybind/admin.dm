@@ -27,7 +27,7 @@
 
 /datum/keybinding/admin/player_panel
 	hotkey_keys = list("F6")
-	name = "player_panel"
+	name = "player_panel_new"
 	full_name = "Player Panel New"
 	description = "Opens up the new player panel"
 
