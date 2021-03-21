@@ -103,7 +103,7 @@
 
 /client/proc/cmd_admin_world_narrate() // Allows administrators to fluff events a little easier -- TLE
 	set category = "Special Verbs"
-	set name = "Narration"
+	set name = "Global Narrate"
 
 	if (!holder)
 		to_chat(src, "Only administrators may use this command.")
