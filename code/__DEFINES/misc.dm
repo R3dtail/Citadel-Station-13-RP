@@ -144,7 +144,7 @@ Will print: "/mob/living/carbon/human/death" (you can optionally embed it in a s
 #define DEFAULT_JOB_TYPE /datum/job/assistant
 
 //Assistant/Visitor/Whatever
-#define USELESS_JOB	"Visitor"
+#define USELESS_JOB	"Assistant"
 
 #define ECO_MODIFIER 10
 
